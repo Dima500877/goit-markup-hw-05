@@ -552,8 +552,11 @@ ul{
 }
 .modal-input:focus{
     border-color: #4D5AE5;
+    
+}
+.second-svg:focus{
     fill: #4D5AE5;
-
+    
 }
 .second-svg{
     position: absolute;
