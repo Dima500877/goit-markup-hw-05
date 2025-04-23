@@ -556,7 +556,7 @@ ul{
 }
 .second-svg:focus{
     fill: #4D5AE5;
-    
+
 }
 .second-svg{
     position: absolute;
@@ -625,6 +625,14 @@ ul{
     justify-content: center;
     align-items: center;
     margin: auto;
+}
+.user-privacy:checked .five-span{
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD; 
+}
+.last-span{
+    color: #4d5ae5;
 }
 img{
     display: block;
